@@ -1,0 +1,1 @@
+<bound method User.get_user of <api.user.User object at 0x000001291BC64C50>>
